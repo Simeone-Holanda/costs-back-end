@@ -1,7 +1,11 @@
+
 # Este projeto foi feito com:
 Python 3.10.2 <br>
 Django 4.0.2
 Django-Rest-Framework 3.13.1
+
+## Descrição do projeto
+ Back-end do site costs feito com Django-Rest-Framework, verifique o front-end também <a href="https://github.com/Simeone-Holanda/costs-front-end">Aqui</a>. 
 
 ## Como rodar o projeto?
 
