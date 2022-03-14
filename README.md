@@ -21,7 +21,7 @@ Django-Rest-Framework 3.13.1
 
     git clone https://github.com/Simeone-Holanda/costs-back-end 
 
-    cd costs-api-django 
+    cd costs-back-end
 
     python -m venv venv
 
