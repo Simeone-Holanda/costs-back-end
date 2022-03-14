@@ -14,8 +14,6 @@ Django-Rest-Framework 3.13.1
 - Ative o virtualenv(O caminho pode variar dependendo do sistema operacional).<br>
 - Instale as dependências.<br>
 - Rode as migrações.<br>
-- Crie um arquivo .env na raiz do projeto e adicione sua chave como abaixo
-  SECRET_KEY = '....'
 
 ## Siga os comandos abaixo para que tudo ocorra normalmente
 
@@ -34,6 +32,12 @@ Django-Rest-Framework 3.13.1
     python manage.py migrate 
 
     python manage.py runserver 
+    
+    acesse a rota: http://127.0.0.1:8000/categories/
+    
+    faça um post para as categorias que você deseja ter no projeto, aqui uma sugestão das usadas no vídeo infra, desenvolvimento, design, planejamento.
+    
+ 
 
 <br>
 Feito com muito esforço por Simeone Holanda, espero que gostem. 
